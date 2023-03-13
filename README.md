@@ -43,15 +43,15 @@ Types are case insensitive, sometimes types even define whether you are going to
 Variable type should be known in advance in Golang.
 Everything is a Type.
 
--> **String** 
--> **Bool**
--> **Integer** - uint8 - uint64 - int8 - int64 - uintptr
--> **Floating** - float32 - float64
--> **Complex**
--> **Array**
--> **Slices**
--> **Maps**
--> **Structs**
--> **Pointers**
+##### String
+##### Bool
+##### Integer - uint8 - uint64 - int8 - int64 - uintptr
+##### Floating - float32 - float64
+##### Complex
+##### Array
+##### Slices
+##### Maps
+##### Structs
+##### Pointers
 
 Almost everything - functions, channels, mutex...
